@@ -1,0 +1,4 @@
+.vercel
+.env
+pnpm-lock.yaml
+.DS_Store
